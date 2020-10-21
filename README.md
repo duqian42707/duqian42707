@@ -1,7 +1,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/duqian42707?style=for-the-badge&color=blue)](https://github.com/duqian42707?tab=followers)
-[![Website](https://img.shields.io/website?style=for-the-badge&up_message=Blog&url=https://blog.dqv5.com)](https://blog.dqv5.com)
+[![Website](https://img.shields.io/website?label=blog.dqv5.com&style=for-the-badge&url=https%3A%2F%2Fblog.dqv5.com)](https://blog.dqv5.com)
 [![GitHub last commit](https://img.shields.io/github/last-commit/duqian42707/duqian42707?label=update&style=for-the-badge&color=orange)](https://github.com/duqian42707/duqian42707)
-
 <table>
 <tr>
 <td valign="top" width="54%">
